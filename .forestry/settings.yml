@@ -20,7 +20,7 @@ sections:
 - type: heading
   label: Others Pages
 - type: document
-  path: ''
+  path: content
   label: Home
 - type: directory
   path: content/about
